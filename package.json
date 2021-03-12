@@ -1,0 +1,11 @@
+{
+  "name": "shoppergangwebsite",
+  "version": "1.0.0",
+  "description": "the website for a young and activ startup",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "tatan",
+  "license": "ISC"
+}
